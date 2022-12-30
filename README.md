@@ -7,8 +7,11 @@ Desafio realizado em equipe no curso de Desenvolvimento de Software da Cubos Aca
 Participantes:
 
 [Zanoni Fernandes](https://github.com/ZanoniCFernandes)
+
 [Erika Irina](https://github.com/erikaisc)
+
 [Lucas Guimarães](https://github.com/lucashsg77)
+
 [Robson Bezerra](https://github.com/robson8712)
 
 ---
