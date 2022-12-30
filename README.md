@@ -2,33 +2,21 @@
 
 # Desafio Final Módulo 5 - FRONTEND
 
-Este repositório deverá servir de base para ser realizado o fork para desenvolvimento da parte de **FRONTEND** do desafio.
+Desafio realizado em equipe no curso de Desenvolvimento de Software da Cubos Academy.
 
-A URL deste repositório deverá ser entregue na plataforma de alunos da Cubos Academy na página da parte de FRONTEND do desafio.
+Participantes:
 
-A versão final do código de cada sprint deverá estar na branch principal do repositório e sim, a cada semana acumulará as alterações das sprints, portanto a segunda sobrescrevendo a primeira e assim por diante.
+[Zanoni Fernandes](https://github.com/ZanoniCFernandes)
+[Erika Irina](https://github.com/erikaisc)
+[Lucas Guimarães](https://github.com/lucashsg77)
+[Robson Bezerra](https://github.com/robson8712)
 
 ---
 
-No fork de vocês, favor alterar este README para adicionar os links correspondentes para os seguintes itens:
+Links originais:
 
 **Repositório de Backend**: https://github.com/ZanoniCFernandes/back-integral-m05-desafio-t05
 
 **Repositório de Frontend**: https://github.com/ZanoniCFernandes/front-integral-m05-desafio-t05
 
 **URL da aplicação funcionando**: https://desafio-t05-equipe07.netlify.app
-
----
-
-E os itens abaixo, que deverão ser preenchidos apenas após a finalização de todas as sprints do projeto:
-
-**Pull Request (PR) de Backend**: https://github.com/cubos-academy/back-integral-m05-desafio-t05/pull/15
-
-**Pull Request (PR) de Frontend**: https://github.com/cubos-academy/front-integral-m05-desafio-t05/pull/23
-
-Estes Pull Requests (PRs) deverão ser criados a partir da branch principal do fork correspondente de vocês daquela stack tendo como destino o repositório base da stack do desafio.
-
-Ou seja, o Pull Request de **FRONTEND** deverá ser criado a partir do fork de vocês desse repositório aqui, com destino a este repositório aqui.
-
-E portanto o Pull Request de **BACKEND** deverá ser criado a partir do fork de vocês do repositório base de BACKEND desse desafio, com destino ao [repositório base de BACKEND desse desafio](https://github.com/cubos-academy/back-integral-m05-desafio-t05).
-
